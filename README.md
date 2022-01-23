@@ -1,6 +1,6 @@
 # autoalias
 
-_This is a very quick first draft_
+_This is a very quick first draft of the Readme_
 
 Sometimes it's hard to see the forest because of all the trees.
 
