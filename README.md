@@ -13,6 +13,7 @@ $ hello world
 $ hello world
 Hey! I created a new alias for you
     hw=hello world
+$ hw
 ```
 
 ## Setup
