@@ -6,6 +6,15 @@ Sometimes it's hard to see the forest because of all the trees.
 
 autoalias will automatically generate aliases for you of commands you use often.
 
+```bash
+$ hello world
+$ hello world
+[...]
+$ hello world
+Hey! I created a new alias for you
+    hw=hello world
+```
+
 ## Setup
 
 1. `go build`
